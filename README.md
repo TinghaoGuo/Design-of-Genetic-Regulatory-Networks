@@ -5,4 +5,3 @@ Primary Reference
 - https://www.ideals.illinois.edu/handle/2142/49667
 - http://systemdesign.illinois.edu/publications/Guo14a.pdf
 
-Copyright (c)2014 Tinghao Guo
